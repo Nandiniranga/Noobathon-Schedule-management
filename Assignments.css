@@ -1,0 +1,21 @@
+h1{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ol{
+    font-size:22px;
+}
+
+ul{
+    font-size: 22px;
+}
+
+body{
+    background-color:gainsboro;
+}
