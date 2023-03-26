@@ -1,0 +1,12 @@
+h1{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+p{
+    font-size: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-image: url("Images/exmatt.jpg");
+}
